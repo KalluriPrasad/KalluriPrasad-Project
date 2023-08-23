@@ -8,8 +8,6 @@
     height: 60px;
     width: 100%;
     background-color: rgb(233, 99, 51);
-
-   
 }
 .header h2{
     margin: 15px 0px 0px 15px;
@@ -24,16 +22,12 @@
 }
 .header ul li {
     margin: 15px 15px 0px 5px;
-    display: inline;
-    float: right;
-    float: left;
-    
+   float: left;
 }
 .header ul li a {
     color: white;
     text-decoration: none;
-    font-size: 1.2rem;
-   
+   font-size: 1.2rem;
 }
 .nav{
     position: sticky;
@@ -44,31 +38,26 @@
 }
 .nav ul {
     list-style-type: none;
+    padding-top: 15px;
 }
 .nav ul li {
-    margin-top: 15px;
-    float: left;
+    display: inline;
 }
 .nav ul li a {
-    margin-top: 55px;
     font-size: 1.5rem;
     color: white;
     text-decoration: none;
     margin: 0px 15px 0px 25px;
-    
+
 }
 .whatsapp {
     position: fixed;
-    right: 10px;
-    top: 125px;
+    right: 0px;
+     top: 50%;
     cursor: pointer;
 }
-.banner {
-    /* margin-top: 15px; */
-}
 .banner img {
-    
-    background-repeat: no-repeat;
+        background-repeat: no-repeat;
 }
 .banner div h1{
      position: absolute;
@@ -106,12 +95,11 @@
     background-color: rgb(161, 135, 125);
 }
 .three-row {
-    
     margin-top: -5px;
     width: 100%;
     height: 450px;
     background-color: rgb(51, 49, 49);
-    
+
 }
 .row1 img {
     border: 2px solid white;
@@ -160,15 +148,12 @@
 }
 .row1 h2{
     font-size: 2.2rem;
-
 }
 .row2 h2{
     font-size: 2.2rem;
-
 }
 .row3 h2{
     font-size: 2.2rem;
-
 }
 .frow {
     width: 100%;
@@ -217,7 +202,6 @@
     cursor: pointer;
 }
 .four-row2 {
-   
     width: 25%;
     margin: 150px 15px 5px 50px;
     float: left;
@@ -249,7 +233,6 @@
     width: 100%;
     background-color: rgb(46, 44, 44);;
     height: 570px;
-    
 }
 form h5 {
     width: 500px;
@@ -260,7 +243,6 @@ form h5 {
 }
 form {
     font-size: 1.2rem;
-   
 }
 form input {
     padding: 10px;
@@ -268,7 +250,6 @@ form input {
     border-radius: 10px;
     font-size: 1.2rem;
     margin: 25px 350px;
-
 }
 form textarea {
     font-size: 1.2rem;

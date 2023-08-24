@@ -368,3 +368,31 @@ form button:hover{
     border-radius: 95px;
     cursor: pointer;
 }
+
+/* movie-sub-page */
+.img1 {
+   
+}
+.img2 {
+    position:absolute;
+    top: 120px;
+    left: 50px;
+    border-radius: 20px;
+    float: left;
+}
+.movie-sub-page-banner h2 {
+    float: left;
+    color: red;
+    position: absolute;
+    top: 0px;
+    left: 50px;
+}
+.movie-sub-page-banner h4 {
+    float: left;
+}
+.movie-sub-page-banner p{
+    float: left;
+}
+.movie-sub-page-banner button{
+    float: left;
+}

@@ -396,3 +396,15 @@ form button:hover{
 .movie-sub-page-banner button{
     float: left;
 }
+.overflow {
+    margin: 15px 35px 0px 0px;
+    float: right;
+    width: 20%;
+    height: 380px;
+    overflow: scroll;
+}
+.overflow ul img {
+    margin: 15px 5px 5px 20px;
+    border-radius: 20px;
+}
+   
